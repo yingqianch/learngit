@@ -1,4 +1,4 @@
 first--
 first
 strive
-Git track changes!
+Git track changes of files!
